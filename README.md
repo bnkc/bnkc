@@ -1,6 +1,6 @@
 ### Hey! I'm Lev Ostatnigrosh 👋
 
-I'm a graduating math major from ohio state with a passion for big data, coding, and traveling. 🌎
+I'm a graduating math major from ohio state with a passion for big data, coding, snowboarding, and traveling. 🌎
 
 I like to build things with Python ML frameworks, ReactJS, and modern backend APIs. I'm currently expanding my ML
 toolkit to tackle more interesting problems. 🧠
