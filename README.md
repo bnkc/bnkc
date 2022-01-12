@@ -22,5 +22,5 @@ If you would like to collaborate, email me! 📧
 
 You can find me on:
 
-- [My website: https://www.levs.fyi/(https://www.levs.fyi/)
+- [My website](https://www.levs.fyi/)
 - [LinkedIn](https://www.linkedin.com/in/lev-ostatnigrosh-75a84271/)
